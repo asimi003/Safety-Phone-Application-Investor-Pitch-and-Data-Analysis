@@ -1,6 +1,6 @@
 # Safety-Phone-Application-Investor-Pitch-and-Data-Analysis
 
-Entrepreneurship in Computing & Data Analysis
+Entrepreneurship in Computing & Data Analysis Project
 
 ## Description
 
