@@ -9,3 +9,8 @@ Invented a phone application that acts as a a peer protection network in order t
 ## Interactive UI/UX Design of Application - Figma Link
 
 https://www.figma.com/proto/ncoRGf6hA2YLqLDxesJIqn/Buddies-App?node-id=203%3A161&scaling=scale-down&page-id=203%3A100&starting-point-node-id=203%3A101
+
+## User Personas/Stories
+
+![User Persona 1](https://user-images.githubusercontent.com/97551999/191624013-ae850c65-d063-47cb-8de2-f08be4c18a1e.png)
+![User Persona 2](https://user-images.githubusercontent.com/97551999/191624023-63436ab2-715f-4387-88d0-10ec31a98743.png)
